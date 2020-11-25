@@ -1,11 +1,16 @@
 _repo: Peril-Orbit_63837
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63837-h/images/cover.jpg
 creator:
   author:
     agent_name: Wedlake, C. J.
     gutenberg_agent_id: '52630'
     url: http://www.gutenberg.org/2009/agents/52630
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63837#Peril-Orbit
 gutenberg_issued: '2020-11-21'
 gutenberg_type: Text
 identifiers:
